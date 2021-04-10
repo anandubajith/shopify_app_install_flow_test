@@ -1,0 +1,4 @@
+BASE_URL=
+SHOPIFY_API_KEY=
+SHOPIFY_API_SECRET=
+SCOPES="write_orders read_own_subscription_contracts write_own_subscription_contracts read_orders"
